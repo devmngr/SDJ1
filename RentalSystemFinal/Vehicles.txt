@@ -1,0 +1,45 @@
+Family Car,Vw Passat,2016,500,45000,5,2.0,Diesel,25,manual,5,true,true,8,true,black,UV43865,4000,0,0,0
+Family Car,Vw CC,2016,600,25000,5,1.9,Diesel,21,manual,5,true,true,8,true,white,UG78457,20000,0,0,0
+Family Car,Vw Multi,2012,900,35000,5,1.9,Benzin,20,manual,5,true,true,8,true,red,GG77777,20000,0,0,0
+Family Car,Vw GolfIV,2013,100,22000,5,1.6,Benzin,25,automatic,5,true,true,8,false,blue,GB77878,20000,0,0,0
+Family Car,Vw V,2009,400,31000,5,2.2,Benzin,20,manual,5,true,true,8,true,green,AB87777,20000,0,0,0
+Family Car,Vw VI,2013,350,34789,5,1.9,Diesel,21,automatic,5,true,false,8,true,white,GG87677,20000,0,0,0
+Family Car,Honda Civic,2007,270,65000,5,1.4,Benzin,22,manual,5,true,true,8,true,black,BB77777,60000,0,0,0
+Family Car,Chevrolet Malibu,2007,320,47000,5,1.4,Benzin,24,manual,5,true,true,8,true,yellow,BB78777,40000,0,0,0
+Family Car,Hyundai Sonata,2016,190,105000,5,1.4,Diesel,27,manual,5,true,true,8,true,blue,AA77777,100000,0,0,0
+Family Car,Kia Optima,2008,370,75000,5,1.9,Diesel,17.8,manual,5,true,true,8,true,brown,CA97777,60000,0,0,0
+Family Car,Honda HRV,2015,330,85000,5,1.6,Benzin,23.3,automatic,5,true,true,8,true,cyan,GG77477,80000,0,0,0
+Family Car,Honda CRV,2014,320,22222,5,1.9,Diesel,24,manual,5,true,false,8,true,orange,BB77788,20000,0,0,0
+Family Car,Honda Civic,2009,310,33333,5,1.9,Diesel,20,automatic,5,false,true,8,true,red,AA71477,20000,0,0,0
+Family Car,Honda Civic,2007,610,44444,5,1.9,Diesel,25,manual,5,true,true,8,true,yellow,DE7779,40000,0,0,0
+Family Car,Dacia Duster,20014,700,66666,5,1.5,Benzin,18,manual,5,true,true,8,true,red,GR74377,60000,0,0,0
+Family Car,Toyota HighLander,2016,900,88888,5,2.4,Diesel,20,manual,5,true,false,8,true,black,UT67543,80000,0,0,0
+Family Car,Honda Pilot,2015,550,99999,5,1.9,Diesel,23,automatic,5,true,true,8,true,white,AA75477,80000,0,0,0
+Family Car,Ford Focus,2007,590,108000,5,1.8,Diesel,22,manual,5,true,true,8,true,orange,AB7735,100000,0,0,0
+Family Car,Ford Fiesta,2009,390,124700,5,1.9,Benzin,19,manual,5,true,true,8,false,black,BB12377,120000,0,0,0
+Family Car,Ford Max,2010,660,21500,5,1.7,Diesel,25,manual,5,false,true,10,true,red,JJ97777,20000,0,0,0
+Family Car,Ford BMax,2010,360,47000,5,1.9,Diesel,22,manual,5,true,true,8,true,white,BA78777,40000,0,0,0
+Family Car,BMW 525,2011,320,66666,5,1.7,Benzin,25,manual,5,true,true,8,true,black,GG25777,60000,0,0,0
+Family Car,BMW 519,2007,390,77777,5,1.9,Diesel,25,automatic,5,true,true,8,true,red,LY76544,60000,0,0,0
+Family Car,BMW 518i,2012,410,55478,5,1.6,Benzin,25,manual,5,true,true,8,true,black,CC73777,40000,0,0,0
+Family Car,BMW X3,2012,990,27895,5,1.9,Benzin,22,manual,5,true,true,8,true,white,KK77777,20000,0,0,0
+Family Car,BMW X5,2012,330,30000,5,1.7,Diesel,25,manual,5,true,true,8,true,orange,LL77777,20000,0,0,0
+Family Car,Opel Astra,2009,160,150000,5,2.0,Benzin,23,manual,5,true,true,8,true,red,BB77777,140000,0,0,0
+Family Car,Opel Adam,2010,280,47898,5,1.9,Diesel,25,manual,5,true,true,8,true,red,HG24577,40000,0,0,0
+Family Car,Dacia Lodgy,2015,410,22222,7,1.9,Diesel,21,manual,5,true,true,7,true,black,YT54578,20000,3500,0,0
+Van,Fiat Multipla,2009,460,24000,5,1.7,Benzin,25,manual,5,true,true,8,true,red,BB77777,20000,3500,0,0
+Van,Fiat Idea,2012,670,25000,5,1.9,Diesel,20,manual,5,true,true,7,true,black,AA77777,20000,3500,0,0
+Van,Fiat Panda,2014,770,44000,5,2.0,Benzin,21,automatic,3,true,true,5,true,white,CC77777,40000,3500,0,0
+Van,Ford Transit,2007,780,124000,5,1.9,Benzin,27,manual,5,true,true,6,true,black,YY77777,120000,3500,0,0
+Van,Ford EcoNo,2016,800,34000,5,1.6,Diesel,2,manual,5,true,true,5,true,orange,TR77887,20000,3500,0,0
+Van,Ford TransitConect,20012,810,74000,5,1.7,Diesel,21,manual,5,true,true,8,true,green,II12777,60000,3500,0,0
+Van,Honda Mobilio,2008,260,224000,5,1.9,Diesel,22,manual,5,true,true,6,true,white,PO77777,220000,3500,0,0
+Van,Chevrolet Express,2005,620,124000,5,1.6,Benzin,20,manual,5,true,true,8,true,red,XX87534,120000,3500,0,0
+Van,Chrysler Voyager,2012,630,148000,5,1.6,Benzin,21,manual,5,true,true,8,true,brown,AA73477,140000,3500,0,0
+Van,Citroen Berlingo,2009,640,424000,5,1.4,Diesel,23,manual,5,true,true,8,true,red,PP45777,420000,3500,0,0
+Van,Fiat Multipla,2009,560,324000,5,1.9,Benzin,18,manual,5,true,true,8,true,yellow,BB77777,320000,3500,0,0
+Moving Truck,GMC Topkick,2005,650,124000,5,2.5,Diesel,15,manual,5,true,true,8,true,white,XY87534,120000,0,20m3,0
+Moving Truck,Iveco 80E,2005,660,134000,5,2.5,Diesel,16,manual,5,true,true,8,true,black,AY17534,120000,0,20m3,0
+Moving Truck,Fiat Ducato,2005,370,113000,5,2.5,Diesel,15,manual,5,true,true,8,true,white,FY81234,100000,0,13m3,0
+Moving Truck,Fiat DucatoLift,2005,770,184000,5,2.5,Diesel,15,manual,5,true,true,8,true,blue,TR63214,180000,0,18m3,0
+Auto Camper,Knaus TI,2005,730,124000,5,2.5,Diesel,15,manual,5,true,true,8,true,white,XY87534,120000,0,0,4
